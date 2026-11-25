@@ -28,6 +28,11 @@ This project focuses on data cleaning, data analysis, and visualization using Mi
 
 ## Dashboard Preview
 
+## Dashboard Preview
+
+### Excel Data Analysis Dashboard
+
+![Excel Dashboard](Excel_Dashboard.png)
 Add your Excel dashboard screenshots here.
 
 ## Project Files
